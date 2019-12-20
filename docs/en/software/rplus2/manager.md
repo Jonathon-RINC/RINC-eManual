@@ -241,7 +241,7 @@ This feature is currently being prepared and will be supported in upcoming updat
 
     ![](/assets/images/sw/rplus2/manager/roboplus_manager2_57.png)
  
-11. Select an item with RW access property and change its value to test controller. For below example, select Green LED and change its value from the right table will control green LED on the controller.
+11. Select an item with R/W access property and change its value to test controller. For below example, select Green LED and change its value from the right table will control green LED on the controller.
 
     ![](/assets/images/sw/rplus2/manager/roboplus_manager2_58.png)
  
