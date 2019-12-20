@@ -103,7 +103,7 @@ In the Programming Tab, user can edit the task source code.
 
 ![](/assets/images/sw/rplus_mobile/r+m_task2_5.png)
 
-![](/assets/images/sw/rplus_mobile/r+m_task2_6.png)
+![](/assets/images/sw/rplus_mobile/r+m_task2_6.png) 
 
 ## [Debugging Tab](#debugging-tab)
 
